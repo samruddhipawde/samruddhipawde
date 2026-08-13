@@ -2,70 +2,117 @@
 
 <p align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,100:4A00E0&height=220&section=header&text=Samruddhi%20Pawde&fontSize=65&fontColor=ffffff&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,16,18,20&height=190&section=header&text=Samruddhi%20Pawde&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20AI%20Enthusiast&descAlignY=62&descSize=19"/>
 
 </p>
-
-
-<h3 align="center">
-🚀 Computer Engineering Student | Full Stack Developer | AI Enthusiast
-</h3>
-
 
 <p align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=C77DFF&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;AI+%26+LLM+Explorer;React+%7C+FastAPI+Developer;Building+Intelligent+Applications"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=21&duration=3000&pause=1000&color=C77DFF&center=true&vCenter=true&width=720&lines=Full+Stack+Developer;AI+%26+LLM+Explorer;React+%7C+FastAPI+Developer;Building+Intelligent+Applications;Turning+Ideas+Into+Real-World+Solutions"/>
 
 </p>
-
 
 <p align="center">
 
-<img src="https://komarev.com/ghpvc/?username=samruddhipawde&label=Profile%20Views&color=8E2DE2&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=samruddhipawde&label=PROFILE%20VIEWS&color=8E2DE2&style=for-the-badge"/>
+
+<img src="https://img.shields.io/github/followers/samruddhipawde?label=FOLLOWERS&style=for-the-badge&color=16A34A"/>
+
+<img src="https://img.shields.io/github/stars/samruddhipawde?label=STARS&style=for-the-badge&color=F59E0B"/>
 
 </p>
 
+<p align="center">
+
+<a href="https://github.com/samruddhipawde">
+<img src="https://img.shields.io/badge/GitHub-samruddhipawde-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/samruddhi-pawde/">
+<img src="https://img.shields.io/badge/LinkedIn-Samruddhi%20Pawde-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://www.instagram.com/itz__unique_girl_00/">
+<img src="https://img.shields.io/badge/Instagram-itz__unique__girl__00-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+</p>
 
 ---
 
 # 👩‍💻 About Me
 
-
 <img align="right" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-
-- 🎓 Computer Engineering Student
-- 💻 Full Stack Developer
-- 🤖 AI Application Developer
-- 🔍 Exploring LLMs, RAG and Semantic Search
-- 🚀 Building innovative real-world applications
-- 🌱 Always learning new technologies
-
+* 🎓 Computer Engineering Student
+* 💻 Full Stack Developer
+* 🤖 AI Application Developer
+* 🔍 Exploring LLMs, RAG and Semantic Search
+* 🚀 Building innovative real-world applications
+* 💼 Intern at TeckGeekConnect Technologies
+* 🧠 Interested in intelligent software systems
+* 🌱 Always learning new technologies
 
 <br clear="right"/>
 
+---
+
+# 🏆 Highlights
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/🏆%20Best%20Project-Memora%20AI-8E2DE2?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/💻%20Focus-Full%20Stack-4A00E0?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/🤖%20Focus-AI%20Development-7C3AED?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/🧠%20Exploring-LLMs%20%7C%20RAG-16A34A?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/🚀%20Building-Real--World%20Solutions-059669?style=for-the-badge"/>
+
+</p>
+
+---
+
+# 💼 Experience
+
+## 🧑‍💻 TeckGeekConnect Technologies
+
+**Software Development Intern**
+
+* 💻 Worked with practical software development workflows
+* 🌐 Explored modern web technologies
+* 🧩 Strengthened problem-solving and development skills
+* 🔧 Worked with development tools and real-world tasks
+* 🚀 Gained practical exposure to software engineering
 
 ---
 
 # 🚀 Featured Projects
 
-
 ## 🧠 Memora AI
 
 > AI-powered browser memory assistant that helps users save, organize and retrieve information intelligently.
 
+<p align="center">
+
+<img src="https://img.shields.io/badge/🏆%20BEST%20PROJECT-AWARD%20WINNER-8E2DE2?style=for-the-badge"/>
+
+</p>
 
 ### ✨ Features
 
-- 🧠 Smart Memory Storage
-- 🔍 Semantic Search
-- 🤖 AI Chat Assistant
-- 📚 Knowledge Organization
-- 🔐 Secure Data Handling
-
+* 🧠 Smart Memory Storage
+* 🔍 Semantic Search
+* 🤖 AI Chat Assistant
+* 📚 Knowledge Organization
+* 🔐 Secure Data Handling
+* 🧩 AI Embeddings
+* 🔗 Retrieval-Augmented Generation
+* ⚡ Intelligent Information Retrieval
 
 ### 🛠️ Tech Stack
-
 
 <p>
 
@@ -79,7 +126,7 @@
 
 <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=python&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/AI_Embeddings-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/Embeddings-412991?style=for-the-badge&logo=openai&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/Semantic_Search-007ACC?style=for-the-badge&logo=google&logoColor=white"/>
 
@@ -87,47 +134,57 @@
 
 </p>
 
-
-
 ---
 
-# 🤖 Zenviq AI
+## 🤖 Zenviq AI
 
-
-> Intelligent AI assistant designed for automation and smart user interaction.
-
+> Intelligent AI assistant designed for automation, smart interaction and everyday digital assistance.
 
 ### ✨ Features
 
-- 🎙 Voice Commands
-- 📱 Android AI Assistant
-- ⚡ Smart Automation
-- 🔒 Secure User Experience
-
+* 🎙️ Voice Commands
+* 🤖 AI Assistant
+* 🔎 Intelligent Search
+* ⚡ Smart Automation
+* 🧠 AI-powered Responses
+* 🌐 Web-based Assistant Interface
+* 🔒 Secure User Experience
+* 🔌 API-based Architecture
 
 ### 🛠️ Tech Stack
 
-
 <p>
 
-<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white"/>
-
 <img src="https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+
+<img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 
 <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+
 </p>
 
+> 🛠️ **Currently developing Zenviq in VS Code as a web-based AI application.**
 
+---
+
+# 📌 Other Projects
+
+| Project                           | Description                                  | Technologies                        |
+| :-------------------------------- | :------------------------------------------- | :---------------------------------- |
+| 🏨 **Hostel Management System**   | Hostel administration and student management | C / C++ / Java / SQL                |
+| 🎓 **Student Management System**  | Student records and academic data management | Java / SQL / DBMS                   |
+| 🌐 **College Management Website** | College information and digital services     | HTML / CSS / Bootstrap / JavaScript |
+| ⚛️ **React Student Portal**       | Interactive student portal                   | React / Vite / JavaScript           |
 
 ---
 
 # 🛠️ Tech Stack
-
 
 ## 💻 Programming Languages
 
@@ -145,7 +202,6 @@
 
 </p>
 
-
 ## 🎨 Frontend
 
 <p>
@@ -162,12 +218,13 @@
 
 </p>
 
-
 ## ⚙️ Backend & Database
 
 <p>
 
 <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 
@@ -175,8 +232,21 @@
 
 </p>
 
+## 🤖 AI & Intelligent Systems
 
-## 🔧 Tools
+<p>
+
+<img src="https://img.shields.io/badge/LLMs-8E2DE2?style=for-the-badge&logo=openai&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/RAG-00A67E?style=for-the-badge&logo=ai&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Embeddings-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Semantic_Search-16A34A?style=for-the-badge&logo=google&logoColor=white"/>
+
+</p>
+
+## 🔧 Tools & Platforms
 
 <p>
 
@@ -188,15 +258,31 @@
 
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
 
-</p>
+<img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
 
+</p>
 
 ---
 
 # 🧠 AI Journey
 
+<p align="center">
 
-```
+<img src="https://img.shields.io/badge/Artificial%20Intelligence-8E2DE2?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/LLMs-7C3AED?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/RAG-6D28D9?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Embeddings-16A34A?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Semantic%20Search-059669?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/AI%20Applications-047857?style=for-the-badge"/>
+
+</p>
+
+```text
 Artificial Intelligence
           ↓
 Large Language Models
@@ -210,86 +296,95 @@ Large Language Models
 AI Powered Applications
 ```
 
-
 ---
 
 # 📚 Currently Learning
 
-✨ Advanced React Development  
-✨ AI Application Development  
-✨ Backend Architecture  
-✨ Vector Databases  
-✨ Cloud Deployment  
+<p align="center">
 
+<img src="https://img.shields.io/badge/⚛️%20Advanced%20React-8E2DE2?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/🤖%20AI%20Applications-7C3AED?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/🧠%20LLMs%20%26%20RAG-6D28D9?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/🗄️%20Vector%20Databases-16A34A?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/☁️%20Cloud%20Deployment-059669?style=for-the-badge"/>
+
+</p>
 
 ---
 
 # 📊 GitHub Analytics
 
-
 <p align="center">
 
-<img width="48%"
-src="https://github-readme-stats.vercel.app/api?username=samruddhipawde&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=samruddhipawde&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&rank_icon=github"/>
 
-
-<img width="48%"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=samruddhipawde&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samruddhipawde&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
 
 </p>
 
-
 <p align="center">
 
-<img width="70%"
-src="https://github-readme-streak-stats.herokuapp.com/?user=samruddhipawde&theme=tokyonight&hide_border=true"/>
+<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=samruddhipawde&theme=tokyonight&hide_border=true&ring=C77DFF&fire=8E2DE2&currStreakLabel=C77DFF"/>
 
 </p>
-
 
 ---
 
-# 📈 Contribution Graph
-
+# 🏆 GitHub Trophies
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=samruddhipawde&theme=tokyo-night&hide_border=true&area=true"/>
+<img src="https://github-profile-trophy.vercel.app/?username=samruddhipawde&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=6&row=2"/>
 
 </p>
 
-
 ---
 
+# 🟩 GitHub Contributions
+
+<p align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=samruddhipawde&theme=tokyonight" alt="GitHub Contribution Graph"/>
+
+</p>
+
+<p align="center">
+<sub>🟩 Every contribution represents another step in the journey of learning, building and improving.</sub>
+</p>
 
 ---
 
 # 🌐 Connect With Me
 
-
 <p align="center">
 
 <a href="https://github.com/samruddhipawde">
 
-<img src="https://img.shields.io/badge/GitHub-samruddhipawde-black?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/GitHub-samruddhipawde-181717?style=for-the-badge&logo=github&logoColor=white"/>
 
 </a>
-
 
 <a href="https://www.linkedin.com/in/samruddhi-pawde/">
 
-<img src="https://img.shields.io/badge/LinkedIn-Samruddhi%20Pawde-blue?style=for-the-badge&logo=linkedin"/>
+<img src="https://img.shields.io/badge/LinkedIn-Samruddhi%20Pawde-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 
 </a>
 
+<a href="https://www.instagram.com/itz__unique_girl_00/">
+
+<img src="https://img.shields.io/badge/Instagram-itz__unique__girl__00-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+
+</a>
 
 </p>
-
 
 ---
 
 # ✨ Developer Quote
-
 
 <p align="center">
 
@@ -297,16 +392,14 @@ src="https://github-readme-streak-stats.herokuapp.com/?user=samruddhipawde&theme
 
 </p>
 
-
 <p align="center">
 
-⭐ Learning • Building • Innovating 🚀
+⭐ <b>Learning</b>   •   💻 <b>Building</b>   •   🤖 <b>Innovating</b>
 
 </p>
 
-
 <p align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4A00E0,100:8E2DE2&height=100&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=20,18,16,14,12&height=110&section=footer"/>
 
 </p>
