@@ -20,23 +20,6 @@
 
 <img src="https://img.shields.io/github/stars/samruddhipawde?label=STARS&style=for-the-badge&color=F59E0B"/>
 
-</p>
-
-<p align="center">
-
-<a href="https://github.com/samruddhipawde">
-<img src="https://img.shields.io/badge/GitHub-samruddhipawde-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/samruddhi-pawde/">
-<img src="https://img.shields.io/badge/LinkedIn-Samruddhi%20Pawde-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://www.instagram.com/itz__unique_girl_00/">
-<img src="https://img.shields.io/badge/Instagram-itz__unique__girl__00-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-
-</p>
 
 ---
 
@@ -316,19 +299,43 @@ AI Powered Applications
 
 ---
 
+# 🎯 Future Goals
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/🚀%20Build-Production--Ready%20AI%20Applications-8E2DE2?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/🧠%20Master-LLMs%20%26%20RAG-7C3AED?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/☁️%20Learn-Cloud%20%26%20Scalable%20Systems-16A34A?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/🌐%20Contribute-Open%20Source-059669?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/🏆%20Create-Impactful%20Real--World%20Solutions-047857?style=for-the-badge"/>
+
+</p>
+
+* 🚀 Build and deploy more production-ready AI applications
+* 🧠 Deepen expertise in LLMs, RAG, embeddings and intelligent systems
+* ☁️ Improve cloud deployment and scalable backend development skills
+* 🌐 Contribute to meaningful open-source projects
+* 💡 Create technology that solves practical real-world problems
+
+---
+
 # 📊 GitHub Analytics
 
 <p align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=samruddhipawde&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&rank_icon=github"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=samruddhipawde&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&rank_icon=github&cache_seconds=86400"/>
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samruddhipawde&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samruddhipawde&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=86400"/>
 
 </p>
 
 <p align="center">
 
-<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=samruddhipawde&theme=tokyonight&hide_border=true&ring=C77DFF&fire=8E2DE2&currStreakLabel=C77DFF"/>
+<img width="70%" src="https://streak-stats.demolab.com/?user=samruddhipawde&theme=tokyonight&hide_border=true&ring=C77DFF&fire=8E2DE2&currStreakLabel=C77DFF"/>
 
 </p>
 
@@ -338,7 +345,7 @@ AI Powered Applications
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=samruddhipawde&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=6&row=2"/>
+<img src="https://github-profile-trophy.vercel.app/?username=samruddhipawde&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=6&row=2&cache_seconds=86400"/>
 
 </p>
 
@@ -348,7 +355,7 @@ AI Powered Applications
 
 <p align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=samruddhipawde&theme=tokyonight" alt="GitHub Contribution Graph"/>
+<img src="https://ghchart.rshah.org/samruddhipawde" alt="Samruddhi Pawde GitHub Contribution Activity" width="95%"/>
 
 </p>
 
@@ -394,7 +401,7 @@ AI Powered Applications
 
 <p align="center">
 
-⭐ <b>Learning</b>   •   💻 <b>Building</b>   •   🤖 <b>Innovating</b>
+⭐ <b>Learning</b>   •   💻 <b>Building</b>   •   🤖 <b>Innovating</b>
 
 </p>
 
