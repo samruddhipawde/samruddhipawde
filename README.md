@@ -154,16 +154,8 @@
 
 > 🛠️ **Currently developing Zenviq in VS Code as a web-based AI application.**
 
----
 
-# 📌 Other Projects
 
-| Project                           | Description                                  | Technologies                        |
-| :-------------------------------- | :------------------------------------------- | :---------------------------------- |
-| 🏨 **Hostel Management System**   | Hostel administration and student management | C / C++ / Java / SQL                |
-| 🎓 **Student Management System**  | Student records and academic data management | Java / SQL / DBMS                   |
-| 🌐 **College Management Website** | College information and digital services     | HTML / CSS / Bootstrap / JavaScript |
-| ⚛️ **React Student Portal**       | Interactive student portal                   | React / Vite / JavaScript           |
 
 ---
 
