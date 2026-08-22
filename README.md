@@ -6,26 +6,13 @@
 
 </p>
 
-<p align="center">
-
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=21&duration=3000&pause=1000&color=C77DFF&center=true&vCenter=true&width=720&lines=Full+Stack+Developer;AI+%26+LLM+Explorer;React+%7C+FastAPI+Developer;Building+Intelligent+Applications;Turning+Ideas+Into+Real-World+Solutions"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=samruddhipawde&label=PROFILE%20VIEWS&color=8E2DE2&style=for-the-badge"/>
-
-<img src="https://img.shields.io/github/followers/samruddhipawde?label=FOLLOWERS&style=for-the-badge&color=16A34A"/>
-
-<img src="https://img.shields.io/github/stars/samruddhipawde?label=STARS&style=for-the-badge&color=F59E0B"/>
 
 
 ---
 
 # 👩‍💻 About Me
 
-<img align="right" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="right" width="320" src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/Development/Developer.gif">
 
 * 🎓 Computer Engineering Student
 * 💻 Full Stack Developer
@@ -154,9 +141,6 @@
 
 > 🛠️ **Currently developing Zenviq in VS Code as a web-based AI application.**
 
-
-
-
 ---
 
 # 🛠️ Tech Stack
@@ -243,33 +227,107 @@
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/Artificial%20Intelligence-8E2DE2?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/LLMs-7C3AED?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/RAG-6D28D9?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Embeddings-16A34A?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Semantic%20Search-059669?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/AI%20Applications-047857?style=for-the-badge"/>
+### ✦ From Curiosity to Intelligent Systems ✦
 
 </p>
 
-```text
-Artificial Intelligence
-          ↓
-Large Language Models
-          ↓
-          RAG
-          ↓
-     Embeddings
-          ↓
-  Semantic Search
-          ↓
-AI Powered Applications
-```
+<table align="center">
+<tr>
+<td align="center" width="160">
+
+### 🌱
+
+**FOUNDATION**
+
+Programming
+Web Development
+Databases
+
+</td>
+
+<td align="center">
+
+➜
+
+</td>
+
+<td align="center" width="160">
+
+### 🧩
+
+**INTELLIGENCE**
+
+Machine Learning
+AI Concepts
+Data Processing
+
+</td>
+
+<td align="center">
+
+➜
+
+</td>
+
+<td align="center" width="160">
+
+### 🧠
+
+**UNDERSTANDING**
+
+LLMs
+Embeddings
+Vector Search
+
+</td>
+
+<td align="center">
+
+➜
+
+</td>
+
+<td align="center" width="160">
+
+### 🔗
+
+**CONNECTING**
+
+RAG
+Semantic Search
+Knowledge Systems
+
+</td>
+
+<td align="center">
+
+➜
+
+</td>
+
+<td align="center" width="160">
+
+### 🚀
+
+**BUILDING**
+
+AI Applications
+Smart Assistants
+Real-World Solutions
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<p align="center">
+
+<code>Learn</code> → <code>Experiment</code> → <code>Build</code> → <code>Improve</code> → <code>Innovate</code>
+
+</p>
+
+> 💡 **My AI journey is not just about learning models — it's about turning intelligent technologies into useful applications that solve real problems.**
 
 ---
 
@@ -277,17 +335,27 @@ AI Powered Applications
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/⚛️%20Advanced%20React-8E2DE2?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/🤖%20AI%20Applications-7C3AED?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/🧠%20LLMs%20%26%20RAG-6D28D9?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/🗄️%20Vector%20Databases-16A34A?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/☁️%20Cloud%20Deployment-059669?style=for-the-badge"/>
+### 🔭 What I'm Exploring Right Now
 
 </p>
+
+| Area                     | What I'm Exploring                                                  |
+| ------------------------ | ------------------------------------------------------------------- |
+| ⚛️ **Advanced React**    | Building cleaner, scalable and more interactive interfaces          |
+| 🤖 **AI Applications**   | Designing practical AI-powered features and assistants              |
+| 🧠 **LLMs & RAG**        | Understanding how intelligent systems retrieve and use knowledge    |
+| 🗄️ **Vector Databases** | Exploring semantic storage and similarity-based retrieval           |
+| ☁️ **Cloud Deployment**  | Learning how applications move from local development to production |
+
+<br>
+
+<p align="center">
+
+**Learning → Experimenting → Building → Improving**
+
+</p>
+
+> 🌱 **Currently focused on turning what I learn into projects instead of keeping knowledge only in theory.**
 
 ---
 
@@ -295,46 +363,76 @@ AI Powered Applications
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/🚀%20Build-Production--Ready%20AI%20Applications-8E2DE2?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/🧠%20Master-LLMs%20%26%20RAG-7C3AED?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/☁️%20Learn-Cloud%20%26%20Scalable%20Systems-16A34A?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/🌐%20Contribute-Open%20Source-059669?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/🏆%20Create-Impactful%20Real--World%20Solutions-047857?style=for-the-badge"/>
+###
+✨ Building Today. Preparing for Tomorrow.
 
 </p>
 
-* 🚀 Build and deploy more production-ready AI applications
-* 🧠 Deepen expertise in LLMs, RAG, embeddings and intelligent systems
-* ☁️ Improve cloud deployment and scalable backend development skills
-* 🌐 Contribute to meaningful open-source projects
-* 💡 Create technology that solves practical real-world problems
+<br>
+🚀 Where I Want To Go
+
+> **I don't want to simply learn technology — I want to use it to build things that matter.**
+
+<br>
+
+🌱 **01 — Grow**
+
+Strengthen my foundations in software engineering, system design and modern full-stack development.
+   
+
+🧠 **02 — Go Deeper**
+
+Build stronger expertise in **AI, LLMs, RAG, embeddings and intelligent applications.**
+   
+
+⚙️ **03 — Build Better**
+
+Turn ideas into **production-ready applications** with clean architecture, scalable backends and thoughtful user experiences.
+  
+
+☁️ **04 — Scale**
+
+Learn cloud technologies, deployment, DevOps and scalable system design.
+  
+
+🌐 **05 — Contribute**
+
+Become an active contributor to **open-source projects** and the developer community.
+ 
+
+💡 **06 — Create Impact**
+
+Build technology that doesn't just look impressive — **technology that solves real-world problems.**
+
+<br>
+
+<p align="center">
+
+### 🌌 My Long-Term Vision
+
+**Learn → Build → Ship → Improve → Impact**
+
+</p>
+
+<br>
+
+<p align="center">
+
+> 🚀 **From writing my first lines of code to building intelligent systems — the journey is just beginning.**
+
+</p>
 
 ---
 
 # 📊 GitHub Analytics
 
-<p align="center">
 
 
-</p>
 
 <p align="center">
 
-<img width="70%" src="https://streak-stats.demolab.com/?user=samruddhipawde&theme=tokyonight&hide_border=true&ring=C77DFF&fire=8E2DE2&currStreakLabel=C77DFF"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=samruddhipawde&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
 
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="./profile/trophy.svg" alt="GitHub Trophies"/>
 </p>
 
 ---
